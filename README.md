@@ -16,7 +16,7 @@ perform common tasks, such as finding the max and min of a data set, counting, s
 ## The Instructions That Were Given for the Project:
 
 
-- Write a C++ program to print all the twin prime numbers below a certain given number. "A twin prime is a prime number (https://en.wikipedia.org/wiki/Prime_number) that is either 2 less or 2 more than another prime number—for example, either member of the twin prime pair (41, 43). In other words, a twin prime is a prime that has a prime gap (https://en.wikipedia.org/wiki/Prime_gap) of two. Sometimes the term twin prime is used for a pair of twin primes; an alternative name for this is prime twin or prime pair." See the [Twin Prime Wiki](https://en.wikipedia.org/wiki/Twin_prime)
+- Write a C++ program to print all the twin prime numbers below a certain given number. "A twin prime is a prime number ([Prime Number Wiki](https://en.wikipedia.org/wiki/Prime_number)) that is either 2 less or 2 more than another prime number—for example, either member of the twin prime pair (41, 43). In other words, a twin prime is a prime that has a prime gap ([Prime Gap Wiki](https://en.wikipedia.org/wiki/Prime_gap)) of two. Sometimes the term twin prime is used for a pair of twin primes; an alternative name for this is prime twin or prime pair." See the [Twin Prime Wiki](https://en.wikipedia.org/wiki/Twin_prime)
 
 - Your program should output the number of twin prime numbers found.
 
@@ -24,7 +24,7 @@ perform common tasks, such as finding the max and min of a data set, counting, s
 
 1. This program should be called TwinPrime.cpp
 
-2. Include the basic header in your program [Required Header Template](https://canvas.fsu.edu/courses/193490/files/15396772/download?wrap=1)
+2. Include the basic header in your program ([Required Header Template](https://canvas.fsu.edu/courses/193490/files/15396772/download?wrap=1))
 
 3. Accept the upper limit from the user (as an integer)
 
